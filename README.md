@@ -5,7 +5,7 @@
 Wipe is your faithful assistant in freeing up memory and increasing the performance of your system. Our program is a fiery and powerful tool for removing temporary files and outdated drivers, helping your computer run at its full potential.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lonely-pilgrim/WipeClean/master/WipeClean.png" width="65%" />
+  <img src=" " width="65%" />
 </p>
 
 ## 📜Features
